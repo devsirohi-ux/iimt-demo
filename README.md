@@ -1,2 +1,2 @@
 # iimt-demo
-this is mya first repo 
+this is mya first repo .
